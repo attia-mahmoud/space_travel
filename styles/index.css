@@ -803,4 +803,9 @@ body {
   .grid-container--tech > .numbers > * {
     width: 5rem;
   }
+
+  /* .grid-container--tech > picture {
+    object-position: 50% 20%;
+    border: 1px solid red;
+  } */
 }
